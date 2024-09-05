@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!! I am Sankarshana W Nanjangud , Thank you for visiting my profile :)<br>🔭 I’m currently working on Machine Learning Projects<br>👯 I’m looking to collaborate on Data Analysis and Machine Learning<br>🌱 I’m interested in AI, ML , Data Analysis , LLM's and <br>💬 Ask me about<br>⚡ Fun fact
+Hello!! I am Sankarshana W Nanjangud , Thank you for visiting my profile :)<br>🔭 I’m currently working on Machine Learning Projects<br>👯 I’m looking to collaborate on Data Analysis and Machine Learning<br>🌱 I’m interested in AI, ML , Data Analysis , LLM's <br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
